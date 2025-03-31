@@ -60,7 +60,7 @@ Run the following in Colab:
 |-------------|----------------|---------------|
 | **Data Handling** | Pandas (`pd.read_csv`) | Spark DataFrame (`spark.read.csv`) |
 | **Processing** | MapReduce & Pandas | PySpark transformations |
-| **ML Model** | Not implemented | Polynomial Regression |
+| **ML Model** | Polynomial Regression | Polynomial Regression |
 | **Storage** | Google Drive | Google Drive & SQLite |
 | **Speed** | Slower due to batch processing | Faster due to in-memory computing |
 | **Scalability** | Limited | Highly Scalable |
